@@ -2,25 +2,26 @@
 
 # Hi, I'm Milkesa Yohanes (Mikii) 👋
 ![Banner](https://img.shields.io/badge/MILKESA-Software_Engineer_%26_Cybersecurity-7ca384?style=for-the-badge&labelColor=333333)
-> **Full Stack Software Developer** specialized in building high-performance web applications using TypeScript and modern frameworks.
+
+> **Full Stack Software Developer** | Expert in TypeScript, Next.js, and Modern UI.
 
 ---
 
 ### 💫 About Me
 * 🔭 **Expertise:** Full Stack Web Development (Frontend & Backend).
-* 💻 **Current Focus:** Building scalable applications with **Next.js** and **Supabase**.
-* 🛠️ **Environment:** Strong focus on clean code and efficient database architecture.
-* 🚀 **Goal:** Creating seamless user experiences with robust backend systems.
+* 💻 **Current Focus:** Building scalable applications with **Next.js**, **Tailwind CSS**, and **Supabase**.
+* 🛠️ **Environment:** Specialized in creating responsive, high-performance user interfaces.
+* 🚀 **Goal:** Designing seamless user experiences with robust, secure backend systems.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend**
+**Frontend & Design**
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Backend & Database**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,11 +31,11 @@
 
 ---
 
-### 📊 GitHub Stats
-![Milkesa's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark&hide_border=true)
+### 📊 GitHub Activity (Free & Live)
+![Milkesa's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milkesa-gutema-867a7a3a1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milkesayohanes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
