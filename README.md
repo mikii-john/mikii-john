@@ -1,7 +1,14 @@
 
 
 # Hi, I'm Milkesa Yohanes (Mikii) 👋
-![Banner](https://img.shields.io/badge/MILKESA-Software_Engineer_%26_Cybersecurity-7ca384?style=for-the-badge&labelColor=333333)
+<p align="center">
+  <img src="https://img.shields.io/badge/MILKESA_YOHANES-Full_Stack_Developer-7ca384?style=for-the-badge&labelColor=20232a&logo=github&logoColor=white" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-Next.js-React-Tailwind-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-Supabase-Postgres-MongoDB-green?style=flat-square" />
+</p>
 
 > **Full Stack Software Developer** | Expert in TypeScript, Next.js, and Modern UI.
 
