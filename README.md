@@ -51,6 +51,19 @@
 
 ---
 
+---
+
+### 📊 Programming Languages Percentage
+<p align="left">
+  <a href="https://github.com/mikii-john">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikii-john&hide_title=true&hide_border=true&layout=donut&theme=dark" />
+  </a>
+</p>
+
+> This chart shows the percentage of languages used across my public repositories. It updates automatically as I commit new code!
+
+---
+
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
