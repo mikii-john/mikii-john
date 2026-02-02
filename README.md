@@ -45,7 +45,9 @@
 ---
 
 ### 📊 GitHub Activity (Free & Live)
-![Milkesa's Stats](https://github-readme-stats.vercel.app/api?username=mikii-john&show_icons=true&theme=transparent&rank_icon=github&display_format=github&border_radius=10)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mikii-john&show_icons=true&theme=dark&hide_border=true" alt="Milkesa's Stats" />
+</p>
 
 ---
 
