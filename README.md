@@ -1,7 +1,6 @@
   ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=7ca384&height=200&section=header&text=Milkesa&fontSize=70&fontAlignY=45" width="100%" />
-
+<img src="https://capsule-render.vercel.app/render?type=soft&color=7ca384&text=Milkesa&fontSize=70" width="100%" />
 
 **mikii-john/mikii-john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
