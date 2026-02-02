@@ -6,9 +6,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-Next.js-React-Tailwind-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-Supabase-Postgres-MongoDB-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/MILKESA_YOHANES-Full_Stack_Developer-7ca384?style=for-the-badge&labelColor=20232a&logo=github&logoColor=white" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+</p>
+
+---
 
 > **Full Stack Software Developer** | Expert in TypeScript, Next.js, and Modern UI.
 
