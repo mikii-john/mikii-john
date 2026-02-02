@@ -1,6 +1,6 @@
   ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=7ca384&text=Milkesa&fontSize=70" width="100%" />
+![Banner](https://img.shields.io/badge/MILKESA-Software_Engineer_%26_Cybersecurity-7ca384?style=for-the-badge&labelColor=333333)
 
 **mikii-john/mikii-john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
