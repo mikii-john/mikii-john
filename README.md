@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Activity (Free & Live)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=milkesa yohanes&show_icons=true&theme=dark&hide_border=true" alt="Milkesa's Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mikii-john&show_icons=true&theme=dark&hide_border=true" alt="Milkesa's Stats" />
 </p>
 
 ---
