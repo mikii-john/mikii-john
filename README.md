@@ -44,12 +44,6 @@
 
 ---
 
-### 📊 GitHub Activity (Free & Live)
-<p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mikii-john&show_icons=true&theme=dark&hide_border=true" alt="Milkesa's Stats" />
-</p>
-
----
 https://www.linkedin.com/in/milkesa-gutema-867a7a3a1/
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milkesa-gutema-867a7a3a1/)
